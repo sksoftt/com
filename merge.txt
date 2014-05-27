@@ -1,0 +1,1 @@
+Try to go back to previous commit. add new file, and then to make a merge
